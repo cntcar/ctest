@@ -10,6 +10,10 @@ namespace CAT
     {
         static void Main(string[] args)
         {
+            int a = 0;
+            string b = "hello world!";
+
+
         }
     }
 }

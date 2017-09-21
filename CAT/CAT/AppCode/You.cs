@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace CAT
 {
-    class You
+    public class You
     {
+        int a, b, c;
+
+        public string GetName()
+        {
+            return "";
+
+        }
+
+
+
     }
 }

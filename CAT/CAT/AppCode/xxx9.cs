@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CAT.AppCode
 {
-    class xxx9
+    class Xxx9
     {
     }
 }
